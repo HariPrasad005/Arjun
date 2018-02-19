@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import Header from './src/Components/header';
 import AlbumList from './src/Components/AlbumList';
-
+Hi Hari!
 
 export default class App extends React.Component {
   render() {
